@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "svmtask work",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "svmtask",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "svmtask-ap",
+  "description": "small task manager"
+}
